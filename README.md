@@ -26,6 +26,7 @@ This list contains open source projects that are mature and, at same time, are a
 * [Krita](https://krita.org/en/homepage/)
 * [Inkscape](https://inkscape.org/en/)
 * [GIMP](https://www.gimp.org/)
+* [digiKam](https://www.digikam.org/)
 
 ### Software development
 
@@ -48,6 +49,7 @@ This list contains open source projects that are mature and, at same time, are a
 
 * [Chrome](https://www.google.com/chrome/)
 * [Smart Switch](https://www.samsung.com/smart-switch/)
+* [Olympus Workspace](http://app.olympus-imaging.com/olympusworkspace)
 
 
 
