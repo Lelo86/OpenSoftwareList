@@ -1,71 +1,53 @@
-# software-and-service-selection
+# Useful software list
 
-Utils
+This list contains applications I use every day on Windows systems. Most of it are tried and well known open source projets. I create list to remember what tools I have used and tried in past.
 
-Notepad++
-https://notepad-plus-plus.org/
-
-7-Zip
-https://www.7-zip.org/
-
-KeePass
-https://keepass.info/
-
-Smart Switch
-https://www.samsung.com/pl/apps/smart-switch/
-
-Internet
-
-Thunderbird
-https://www.thunderbird.net/
-
-Firefox
-https://www.mozilla.org/pl/firefox/
-
-Chrome
-https://www.google.com/intl/pl_ALL/chrome/
-
-WinSCP
-https://winscp.net/eng/download.php
+I prefer open source projects, as they are more secure and transparent. So even if there is better tool free, but not open source I lean toward using open source. 
 
 
-Graphics
+## Open source software
 
-Krita
-https://krita.org/en/homepage/
+This list contains open source projects that are mature and, at same time, are actively developed and maintained.
 
-Inkscape
-https://inkscape.org/en/
+### Utils
 
-GIMP
-https://www.gimp.org/
+* [Notepad++](https://notepad-plus-plus.org/)
+* [7-Zip](https://www.7-zip.org/)
+* [KeePass](https://keepass.info/)
+
+### Internet
+
+* [Thunderbird](https://www.thunderbird.net/)
+* [Firefox](https://www.mozilla.org/firefox/)
+* [WinSCP](https://winscp.net/eng/download.php)
+
+### Graphics
+
+* [Krita](https://krita.org/en/homepage/)
+* [Inkscape](https://inkscape.org/en/)
+* [GIMP](https://www.gimp.org/)
+
+### Software development
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Meld](http://meldmerge.org/)
+* [Git Extensions](https://gitextensions.github.io/)
+
+### Office
+
+* [LibreOffice](https://pl.libreoffice.org)
+* [Apache OpenOffice](https://www.openoffice.org)
+
+### Other
+
+* [VideoLAN](https://www.videolan.org)
+* [GnuCash](https://www.gnucash.org)
 
 
-Programming
+## Free software
 
-Visual Studio Code
-https://code.visualstudio.com/
+* [Chrome](https://www.google.com/chrome/)
+* [Smart Switch](https://www.samsung.com/smart-switch/)
 
-Meld
-http://meldmerge.org/
 
-Git Extensions
-https://gitextensions.github.io/
 
-Multimedia 
-
-VideoLAN
-https://www.videolan.org/vlc/index.pl.html
-
-Finance
-
-GnuCash 
-A personal and small-business financial-accounting software, licensed under GNU/GPL and available for Linux, Windows, Mac OS X, BSD, and Solaris. https://www.gnucash.org/
-
-Office
-
-LibreOffice
-https://pl.libreoffice.org/
-
-Apache OpenOffice
-https://www.openoffice.org/
