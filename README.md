@@ -14,6 +14,7 @@ This list contains open source projects that are mature and, at same time, are a
 * [Notepad++](https://notepad-plus-plus.org/)
 * [7-Zip](https://www.7-zip.org/)
 * [KeePass](https://keepass.info/)
+* [FreeFileSync](https://freefilesync.org/)
 
 ### Internet
 
