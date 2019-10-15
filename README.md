@@ -54,3 +54,7 @@ This list contains open source projects that are mature and, at same time, are a
 
 
 
+# To check
+
+- https://wiki.gnome.org/Apps/Dia
+- https://www.cgsecurity.org/wiki/TestDisk
