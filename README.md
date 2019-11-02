@@ -15,6 +15,7 @@ This list contains open source projects that are mature and, at same time, are a
 * [7-Zip](https://www.7-zip.org/)
 * [KeePass](https://keepass.info/)
 * [FreeFileSync](https://freefilesync.org/)
+* [WinDirStat](https://windirstat.net/)
 
 ### Internet
 
