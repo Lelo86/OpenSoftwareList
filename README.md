@@ -16,6 +16,7 @@ This list contains open source projects that are mature and, at same time, are a
 * [KeePass](https://keepass.info/)
 * [FreeFileSync](https://freefilesync.org/)
 * [WinDirStat](https://windirstat.net/)
+* [MikTex](https://miktex.org/)
 
 ### Internet
 
