@@ -46,6 +46,8 @@ This list contains open source projects that are mature and, at same time, are a
 
 * [VideoLAN](https://www.videolan.org)
 * [GnuCash](https://www.gnucash.org)
+* [TestDisk](https://www.cgsecurity.org/wiki/TestDisk)
+* [Dia](https://wiki.gnome.org/Apps/Dia)
 
 
 ## Free software
@@ -53,10 +55,3 @@ This list contains open source projects that are mature and, at same time, are a
 * [Chrome](https://www.google.com/chrome/)
 * [Smart Switch](https://www.samsung.com/smart-switch/)
 * [Olympus Workspace](http://app.olympus-imaging.com/olympusworkspace)
-
-
-
-# To check
-
-- https://wiki.gnome.org/Apps/Dia
-- https://www.cgsecurity.org/wiki/TestDisk
